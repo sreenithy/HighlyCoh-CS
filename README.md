@@ -1,7 +1,7 @@
 # HighlyCoh-CS
 This project contains the results of implementing Compressive sensing algorithms for sparse signal recovery when the sensing signal is highly coherent._
 The algorithms considered incude:_
-1.LASSO_
+1.LASSO<br/>
 2.OMP_
 3.TMSBL_
 4.FBMP_
